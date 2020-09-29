@@ -1,2 +1,2 @@
-# vakhtang
-// ჯავას 1ს დავალებები 
+# vakhtangzangaladze
+// ჯავას 1-ის დავალებები 
