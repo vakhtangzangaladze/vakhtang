@@ -15,7 +15,7 @@ public class Filecounter {
                 sumOfResults++;
         }
 
-        System.out.println(sumOfResults);
+        System.out.println(" მოძებნილი ფაილების რაოდებობა :  " + sumOfResults);
     }
 
 }
