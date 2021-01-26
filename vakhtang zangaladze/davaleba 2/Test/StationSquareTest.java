@@ -7,7 +7,7 @@ public class StationSquareTest {
     @Test
     public void test() {
         Train train = new Train();
-        Passenger passenger = new Passenger("ავთანდილი", true);
+        Passenger passenger = new Passenger("ana", true);
         train.Passenger(passenger);
         Assert.assertEquals(true, train.getPassengerList().get(0).haveTicket());
     }
